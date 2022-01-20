@@ -4,24 +4,16 @@ A Telegram Bot to Play Audio in Voice Chats With Youtube and Jio Saavn support.
 Supports Playing Music files from a telegram channel.
 Supports Live streaming from youtube.
 
-```
-Please fork this repository don't import code
-Made with Python3
-(C) @subinps
-Copyright permission under MIT License
-License -> https://github.com/subinps/MusicPlayer/blob/master/LICENSE
-
-```
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CosmicBug/MusicPlayer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Cosmic-Bug/MusicPlayer)
 
 NOTE: Make sure you have started a VoiceChat in your Group before deploying.
 ### Deploy to VPS
 
 ```sh
-git clone https://github.com/subinps/MusicPlayer
+git clone https://github.com/Cosmic-Bug/MusicPlayer
 cd MusicPlayer
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
